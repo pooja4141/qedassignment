@@ -1,0 +1,7 @@
+name: custom_theme
+description: our_custom_theme
+type: theme
+base theme: FALSE
+core_version_requirement: '^8.8 || ^9'
+libraries:
+  - custom_theme/global
